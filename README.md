@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou a Andrea Macieira 👋
 
-<!--
-**andreamacieira/andreamacieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho formação em Desenvolvimento de Produtos Multimédia e interesse por comunicação visual, conteúdos digitais e organização administrativa.
 
-Here are some ideas to get you started:
+### Áreas de interesse
+- Comunicação visual e criação de conteúdos
+- Marketing digital e gestão de redes sociais
+- Ferramentas digitais e apoio administrativo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ferramentas
+Canva · Adobe Illustrator · Adobe Photoshop · Microsoft Excel · Word · PowerPoint
+
+### Portefólio
+Vou partilhar aqui os meus projetos e trabalhos.
+
+### Contacto profissional
+[LinkedIn](https://www.linkedin.com/in/andrea-macieira-24197439b/)
