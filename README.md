@@ -1,6 +1,6 @@
 # Olá, sou a Andrea Macieira 👋
 
-![O meu espaço criativo — ideias, organização e comunicação visual](./secretaria-criativa.svg)
+![O meu espaço criativo — ideias, organização e comunicação visual](./secretaria-criativa.gif)
 
 Tenho formação em Desenvolvimento de Produtos Multimédia e interesse por comunicação visual, conteúdos digitais e organização administrativa.
 
